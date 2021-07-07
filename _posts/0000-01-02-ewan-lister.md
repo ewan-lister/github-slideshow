@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-created a branch from main
+"If it's not fixed, under no circumstances should you break it."
 closed the branch
